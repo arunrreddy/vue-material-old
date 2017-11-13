@@ -20,7 +20,9 @@
   </a>
 </p>
 
-** DEPRECATED **: This is a deprecated version of Vue Material. Please follow the <a href="https://github.com/vuematerial/vue-material">current version</a> of the project.
+**DEPRECATED**: This is a deprecated version of Vue Material. Please follow the <a href="https://github.com/vuematerial/vue-material">current version</a> of the project.
+
+----------
 
 Vue Material is lightweight framework built exactly according to the <a href="http://material.google.com" target="_blank">Material Design</a> specs.
 
