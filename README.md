@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://vuematerial.github.io/" target="_blank">
-    <img width="150" src="https://vuematerial.github.io/assets/logo-vue-material-default.png">
+  <a href="http://vuematerial.io/" target="_blank">
+    <img width="150" src="http://vuematerial.io/assets/logo-vue-material-default.png">
   </a>
 </p>
 
@@ -20,20 +20,22 @@
   </a>
 </p>
 
-Vue Material is lightweight framework built exactly according to the <a href="http://material.google.com" target="_blank">Material Design</a> specs. 
+** DEPRECATED **: This is a deprecated version of Vue Material. Please follow the <a href="https://github.com/vuematerial/vue-material">current version</a> of the project.
 
-It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2. 
+Vue Material is lightweight framework built exactly according to the <a href="http://material.google.com" target="_blank">Material Design</a> specs.
+
+It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.
 
 Build powerful and well-designed web apps that can fit on every screen. You can generate and use themes dynamically, use components on demand, take advantage of UI Elements and Components with an ease-to-use API.
 
 <p>
-  <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/265KRzahMKDQEQEzoo9BxRiH/vuematerial/vue-material'>
-    <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/265KRzahMKDQEQEzoo9BxRiH/vuematerial/vue-material.svg' />
+  <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/265KRzahMKDQEQEzoo9BxRiH/vuematerial/vue-material-old'>
+    <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/265KRzahMKDQEQEzoo9BxRiH/vuematerial/vue-material-old.svg' />
   </a>
 </p>
 
 ## Demo and Documentation
-<a href="https://vuematerial.github.io/" target="_blank">Demo</a>
+<a href="http://vuematerial.io/" target="_blank">Demo</a>
 
 ## Installation
 
@@ -106,7 +108,7 @@ Yatima Kagurazaka
 </p>
 
 ## Changelog
-<a href="https://vuematerial.github.io/#/changelog" target="_blank">Changelog</a>
+<a href="http://vuematerial.io/#/changelog" target="_blank">Changelog</a>
 
 ## Questions
 The issue list is exclusively for reports, bugs and feature requests. Use the [Slack](https://join.slack.com/t/vuematerial/shared_invite/MTgzMzU2NDQ5ODkwLTE0OTQ4MDI3MDAtNWYyZjhkNzEzMA) instead.
@@ -131,11 +133,11 @@ Vue Material supports the latest version of all Browsers. This means:
 * Thanks a lot to <a href="https://github.com/elviskang" target="_blank">elviskang</a> for donating the npm package name!
 * Thanks to <a href="https://github.com/yyx990803" target="_blank">Evan You</a> for allowing me to use Vue.js Logo.
 
-## Internal Dependencies 
+## Internal Dependencies
 You don't need to include any other library to work with vue-material. The focus of this project is to have a standalone build with no external dependence, but aiming to deliver the best experience without break the compatibility with the Vue.js core.
 * <a href="http://vuejs.org" target="_blank">vue</a>
 * <a href="http://www.jacklmoore.com/autosize/" target="_blank">autosize</a>
 * <a href="https://www.npmjs.com/package/element.scrollintoviewifneeded-polyfill" target="_blank">element.scrollintoviewifneeded-polyfill</a>
 
-## License 
+## License
 MIT
