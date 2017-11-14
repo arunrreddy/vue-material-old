@@ -1,9 +1,8 @@
 <template>
   <div class="page-content">
-    <md-whiteframe md-tag="md-toolbar" class="md-accent md-dense main-banner" v-if="!$root.closeBanner">
-      <span>Exciting news about the future of Vue Material!</span>
-      <md-button class="md-raised" href="https://github.com/vuematerial/vue-material/issues/1081">Check it out!</md-button>
-      <button class="close" @click="$root.closeBanner = true">Close</button>
+    <md-whiteframe md-tag="md-toolbar" class="md-accent md-dense main-banner">
+      <span>This is an old version of Vue Material! Go to new version to get the updated version!</span>
+      <md-button class="md-raised" href="https://vuematerial.io">Check it out!</md-button>
     </md-whiteframe>
 
     <md-whiteframe md-tag="md-toolbar" md-elevation="1" class="main-header">
