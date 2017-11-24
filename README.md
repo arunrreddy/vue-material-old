@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://vuematerial.io/" target="_blank">
-    <img width="150" src="http://vuematerial.io/assets/logo-vue-material-default.png">
+    <img width="150" src="http://vue-material-old.netlify.com/assets/logo-vue-material-default.png">
   </a>
 </p>
 
