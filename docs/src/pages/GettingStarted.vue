@@ -20,8 +20,8 @@
           <h3 class="md-title">NPM</h3>
           <p>Install Vue Material through npm or yarn <br><small>* Others package managers like JSPM and Bower are not supported yet.</small></p>
           <code-block lang="bash">
-            $ npm install vue-material --save
-            $ yarn add vue-material
+            $ npm install vue-material@0.8.1 --save
+            $ yarn add vue-material@0.8.1
           </code-block>
         </section>
 
