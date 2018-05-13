@@ -44,8 +44,8 @@ Import Roboto and Material Icons from Google CDN:
 
 Install Vue Material through npm or yarn
 ``` bash
-npm install --save vue-material
-yarn add vue-material
+npm install --save vue-material@0.8.1
+yarn add vue-material@0.8.1
 ```
 <small>* Others package managers like JSPM and Bower are not supported yet.</small>
 
