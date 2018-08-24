@@ -183,7 +183,7 @@ $sizes: (8, 16, 24, 40);
     margin-left: 66.66666%;
   }
 
-  @for $i from 1 through 20 {
+  @for $i from 0 through 20 {
     $counter: $i * 5;
 
     .md-flex#{$size}-#{$counter} {
